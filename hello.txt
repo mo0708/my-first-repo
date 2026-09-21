@@ -1,1 +1,1 @@
-Hello from my first Github repo!
+Hello from my first GitHub repo!
